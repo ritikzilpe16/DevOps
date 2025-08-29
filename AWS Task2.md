@@ -4,3 +4,6 @@ connecting the Internet gateway and the subnets, and launch a Linux EC2 instance
 
 solution:
 <img width="1919" height="718" alt="image" src="https://github.com/user-attachments/assets/77f26674-03d7-4d11-828f-390240ad93d9" />
+
+<img width="1905" height="792" alt="image" src="https://github.com/user-attachments/assets/00e82011-a4dd-4018-b3ac-c716681f821a" />
+
